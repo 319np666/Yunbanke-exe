@@ -9,7 +9,7 @@
 
 ## 准备工作
 
-### 查看谷歌浏览器版本
+### 1. 查看谷歌浏览器版本
 
 右击【谷歌浏览器】，点击属性
 
@@ -21,9 +21,11 @@
 
 查看谷歌浏览器版本，如果版本为85.0.4183则不需要进行任何改动，直接运行exe程序即可
 
-### 下载chromedriver
+### 2. 下载chromedriver
 
 若版本不一样，则需要下载对应版本的chromedriver，下载链接：
+
+[url](http://npm.taobao.org/mirrors/chromedriver/)
 
 
 
