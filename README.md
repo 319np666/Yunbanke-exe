@@ -35,7 +35,7 @@
 
 ![img text](https://www.iamzlt.com/wp-content/uploads/2020/12/@BATVT7YS7CQ@V2DLVJ.png)
 
-完成上述操作即可顺利使用
+完成上述操作即可顺利使用，详细教程[Chrome驱动](https://plushine.cn/22094.html#%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%8A%E9%A9%B1%E5%8A%A8)
 
 ## 使用教程
 
@@ -48,6 +48,20 @@
 设置完成后，点击【开始】即可运行，【暂停】按钮目前存在少量bug
 
 点击【开始】后会启动线程，但没有进行运行判断，请勿多次点击【开始】，否则会导致程序bug或电脑卡顿等不良影响
+
+## 其他
+
+代码版本：[https://github.com/319np666/Yunbanke-Auto](https://github.com/319np666/Yunbanke-Auto)
+
+#### 若有问题请联系开发者：
+
+#### [XJHui](https://plushine.cn/):
+
+#### [IamZLT](https://www.iamzlt.com/)
+
+#### 微信公众号：
+
+![img text](https://www.iamzlt.com/wp-content/uploads/2019/08/wx-2.jpg)
 
 
 
