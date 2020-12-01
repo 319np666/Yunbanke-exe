@@ -29,7 +29,7 @@
 
 选择对应版本的chromedriver下载
 
-![img text](https://www.iamzlt.com/wp-content/uploads/2020/12/04.png)
+![img text](https://www.iamzlt.com/wp-content/uploads/2020/12/RL5M2XVB7O8UMLQEX7JC.png)
 
 下载后将该文件以chromedriver.exe名称放在exe所在目录下
 
